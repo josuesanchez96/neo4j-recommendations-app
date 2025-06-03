@@ -35,8 +35,8 @@ Los detalles de conexión utilizados en el código son los siguientes:
 - Contraseña: recommendations
 
 ## Código de conexión en app.py: 
-URI = "neo4j+s://demo.neo4jlabs.com:7687"
-USERNAME = "recommendations"
-PASSWORD = "recommendations"
+URI = "neo4j+s://demo.neo4jlabs.com:7687"  
+USERNAME = "recommendations"  
+PASSWORD = "recommendations"  
 
 driver = GraphDatabase.driver(URI, auth=(USERNAME, PASSWORD))

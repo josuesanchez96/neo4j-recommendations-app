@@ -23,7 +23,7 @@ http://localhost:5000
 El programa cuenta con la interfaz desarrollada en Flask que permite consultar recomendaciones por usuario como por producto. El usuario puede ingresar un ID que puede ser el número **1** al **20** para obtener películas sugeridas basadas en los hábitos de otros usuarios similares. 
 Alternativamente puede ingresar el nombre de una película y visualizaer títulos relacionados que han sido valorados por los mismos usuarios.  
 
-![image](https://github.com/user-attachments/assets/4145ea15-c12b-4489-a0f4-b6d9c4b3a311)
+![image](https://github.com/user-attachments/assets/bb0a2dbe-7d7f-4031-a00b-49ef9f8315be)
 
 ## Detalles de la conexión a la base de datos demo
 Este programa se conecta a la base de datos de demostración pública de Neo4j, proporcionada por Neo4j Labs.

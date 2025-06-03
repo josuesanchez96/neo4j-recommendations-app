@@ -1,3 +1,6 @@
+# Tarea Neo4j - Recommendation
+# Realizado por Josué David Sánchez López
+
 from flask import Flask, render_template, request
 from neo4j import GraphDatabase
 
